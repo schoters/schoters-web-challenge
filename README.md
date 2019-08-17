@@ -31,11 +31,20 @@ The application you create can be a single page app (SPA).
 
 Make sure to mention in your `README` how much experience you have with the framework you choose, we will take note of that when reviewing your challenge.
 
+### Software Engineering Practice
+
+Feel free to use any software engineering practice like unit test, ui testing, etc. Make sure you've documented everythin you learned in this project in the readme of your project.
+
 Host it!
 --------
 
 While not a requirement, we always appreciate seeing an app hosted, so if you're feeling ambitious host it somewhere (e.g. on Amazon EC2, Heroku, Google
 AppEngine, etc.)!
+
+Code Submission!
+--------
+
+We are encourage you to use Git. Thus, you gonna need to submit the link to your repository so that we can review the code you've made. Please write a `README` file that will explain the architecture, lesson learned, practices you used, and any other relevant information. 
 
 Questions
 ---------
