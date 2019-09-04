@@ -6,7 +6,7 @@ Functional Specs
 
 ### Copycat of Trello Board
 
-Have you ever heard or Trello board? You might find it useful [here](trello.com). In schoters, we are heavily use trello for our software management tracking tools. In this coding challenge, we would like to challenge you to create minimal version of trello board. The UX/UI is totally up to you. If you like, get creative and add additional
+Have you ever heard or Trello board? You might find it useful [here](https://trello.com). In schoters, we are heavily use trello for our software management tracking tools. In this coding challenge, we would like to challenge you to create minimal version of trello board. The UX/UI is totally up to you. If you like, get creative and add additional
 features a user might find useful!
 
 > Create a trello board that allows an individual to create cards, create sections, and move card between the sections.
