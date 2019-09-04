@@ -14,10 +14,9 @@ features a user might find useful!
 Minimum Requirements:
 * User should be able to create new list/column and give a name. New section created must have no cards in it.
 * User should be able able to create new card instantly by just typing the title of the card.
-* User should be ablt to see the title, description, and when the ticket is created.
+* User should be able to see the title, description when the card is opened.
 * User should be able to add/edit extra information to the card like title, and its description. 
 * User should be able to move the card from a list/column to another list/column
-* User should be able to archive the card and archive the list/column
 
 > You might need to try and get familiar with trello first. Please create a trello board to explore it. Once you have explore it, you might then understand the requirement asked above.
 
